@@ -1,4 +1,4 @@
-#RIP in Pepperino
+# Group RIP in Pepperino
 ## Section 2
 ## Memebers
 No. | Name | Student ID | Github Username
