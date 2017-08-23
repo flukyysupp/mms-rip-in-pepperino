@@ -1,4 +1,4 @@
-# Group RIP in Pepperino
+﻿# Group RIP in Pepperino
 ## Section 2
 เพิ่มชื่อกันด้วยนะ
 ## Members
@@ -10,4 +10,4 @@ No. | Name | Student ID | Github Username
 4 | ณัฐนันท์ วัชรเกษมสินธุ์ | 5731033921 | 5731033921-NW
 5 | สุธรรม ธิติอนันต์ปกรณ์ | 5731109021 | north1432
 6 | พงษ์พีรเดช ชัยธรรม | 5731077521 | 5731077521-PC
-7 | Suppavit Kongthanarit | 573xxxxx21 | xxx
+7 | Suppavich Kongthanarit | 5731105421 | flukyysupp
